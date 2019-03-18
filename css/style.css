@@ -1,0 +1,162 @@
+header {
+background-color: #C3BDBE;
+}
+
+header .img-fluid{
+	height: 50px;
+
+}
+
+body{
+	background-color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+	
+
+.dh{
+	height: 50px;
+	
+}
+
+
+#diana{
+	background-image: url(../img/diana.jpg);
+    height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 50px;
+	
+}
+
+	
+
+
+.navbar-collapse{
+	color: #000;
+	text-decoration-color: #000;
+}
+
+
+
+#diana .img-fluid{
+	height: 500px;
+
+	}
+
+
+#tituloserv{
+	font-family: 'Quicksand', sans-serif;
+    font-size: 36px;
+	text-align: center;
+	padding: 100px;
+	padding-bottom: 100px;
+}
+
+
+#servicios{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	padding: 40px;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+
+#acercademi1{
+	
+	font-family: 'Quicksand', sans-serif;
+	
+}
+
+#acercademi1 .quiensoy{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}	
+
+#acercademi2 {
+	padding-left: -30px;
+	margin-left: -30px;
+	margin-right: 5px;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+	
+}
+
+
+
+
+#portafolio{
+	
+	padding-bottom: 300px;
+	padding-left: 60px;
+	padding-top: 100px;
+	margin-left: -100px;
+	margin-right: -60px;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+	
+}
+
+#sec-icon{
+	font-family: 'Quicksand', sans-serif; 
+	color: #fff;
+}
+
+#sec-servicios{
+	padding: 183px;
+	background-image: url("../img/dianalogo.png");
+	background-repeat: no-repeat;
+	background-position:top;
+    background-attachment: fixed;
+	background-color: #EFEFEF;
+	color:#fff;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+#contacto{
+	font-family: 'Quicksand', sans-serif;
+	padding: 50px;
+	padding-top: 50px;
+	text-align: center;
+	
+}
+
+#footer1 {
+font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+#footer2{
+font-family: 'Quicksand', sans-serif;	
+	text-align: center;
+}
+
+
+
+#redes{
+	margin-left: -320px;
+	padding: 50px;
+	text-align: center;
+	
+}
+
+
+#acercademi1{
+	background-image: url(../img/dianahm1a.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	color:#FFFFFF;
+}
+
+
+
+

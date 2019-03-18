@@ -1,0 +1,117 @@
+a{
+	outline:0 !important;	
+}
+.navbar-light {
+	background-color:·#fff !important;
+	color: #000;
+	font-size:14px;	
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#0000;	
+	font-weight:600;
+	text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	color: #000;	
+	font-weight: 220px; 
+	font-size: 15px; 
+	font-family: 'Quicksand', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+	color:#3D3A3A;
+}
+.navbar-light .navbar-nav .active .nav-link{
+	background-color:transparent;
+	color:#383636;
+}
+.navbar-light .navbar-nav .active .nav-link:hover{
+	background-color:transparent;
+	color:#000;
+}
+
+
+
+.navbar-light .navbar-nav .show > .nav-link{
+	color: #5d5e5e;	
+}
+.navbar-light .navbar-nav .show > .nav-link:focus,
+.navbar-light .navbar-nav .show > .nav-link:hover{
+    color: #fff;
+    background-color: transparent;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.dropdown-menu{
+	background-color:#212121;
+	border:0;
+}
+.dropdown-menu .dropdown-item{
+	font-weight:300!important;
+	font-family: 'Quicksand', sans-serif;
+}
+.navbar-light .navbar-nav .show .dropdown-menu .dropdown-item{
+	color: #0000;
+}
+.navbar-light .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-light .navbar-nav .show .dropdown-menu .dropdown-itema:focus {
+  color: #ff5518;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar-light .navbar-toggler{
+	background-color: transparent;
+	border:1px solid #000;
+}
+.navbar-light .navbar-toggler:hover,
+.navbar-light .navbar-toggler:focus
+{
+    background-color: transparent;
+	cursor:pointer;
+}
+.navbar-light .navbar-toggler-icon {
+    background-color: transparent;
+}
+
+.navbar-light .navbar-toggle:hover .icon-bar {
+    background-color: #323131;
+	cursor:pointer;
+}
+.navbar-light .navbar-brand {
+	color:#363636;		
+	height: auto;
+}
+.navbar-light .navbar-brand:hover {
+ 	color:#312F2F;
+}
+.navbar-light .navbar-brand img{
+	
+}
+
+.carousel-caption{
+	top: 30px;
+}
+
+.carousel-caption h1 {
+	font-size: 100px;
+		font-weight: 700px;
+}
+
+
+.nav-item{
+	color: #0000;
+}
+
+.container-fluid{
+	text-align: center;
+	padding-bottom: 20px;
+	font-family: "Reem Kufi", sans-serif;
+	font-size: 25px;
+	
+}
+
+
+
+
